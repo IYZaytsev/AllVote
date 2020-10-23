@@ -6,7 +6,7 @@
 </p>
 
 ## How to contriubute
-> create a branch with your name followed by "/" and then short disruption of the feature you are adding 
+> create a branch with your name followed by "/" and then short a description of the feature you are adding 
 
 > example: "Ivan/infinite-scroll-on-ballotpage"
 
